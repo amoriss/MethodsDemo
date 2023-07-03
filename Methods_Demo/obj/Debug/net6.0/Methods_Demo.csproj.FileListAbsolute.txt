@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\bin\Debug\net6.0\Methods_Demo.exe
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\bin\Debug\net6.0\Methods_Demo.deps.json
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\bin\Debug\net6.0\Methods_Demo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\bin\Debug\net6.0\Methods_Demo.dll
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\bin\Debug\net6.0\Methods_Demo.pdb
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.dll
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\refint\Methods_Demo.dll
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.pdb
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\Methods_Demo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\01_Methods\Demo\Methods_Demo\Methods_Demo\obj\Debug\net6.0\ref\Methods_Demo.dll
